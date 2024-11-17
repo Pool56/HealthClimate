@@ -100,7 +100,7 @@ In the future we plan to...
 
 See below for our proposed schedule on next steps after Call for Code 2024 submission.
 
-![Roadmap](./images/roadmap.jpg)
+
 
 ## Additional details
 
